@@ -203,6 +203,7 @@ Libraries and SDKs for building your own QuickBooks tools.
 
 - **[Accounting AI Benchmark 2026](https://www.dualentry.com/benchmark)** — DualEntry, which sells AI accounting software, tested leading AI models on 101 synthetic tasks in eight areas of accounting, from transaction classification and journal entries to reconciliation, financial reporting and month-end close.
 - **[Agent Skills](https://agentskills.io)** — The open format the agent skills above are written in.
+- **[AI agents for QuickBooks: real use cases and guides](https://agentsfinance.io/erps/quickbooks/)** — Agents Finance, a free directory, collects documented cases of AI and agents with QuickBooks, such as reconciling the bank feed and payment-processor payouts, and multi-entity close and consolidation, each with its source.
 - **[Compared with other options](https://github.com/ph4mHoa/qbd-agent-kit/blob/main/docs/comparison.md)** — Ways to connect an AI agent to QuickBooks Desktop, compared on where data goes, listed price and write safety.
 - **[Model Context Protocol](https://modelcontextprotocol.io)** — The open protocol MCP servers speak.
 - **[QuickBooks Desktop SDK](https://developer.intuit.com/app/developer/qbdesktop/docs/get-started)** — Intuit's documentation for building on QuickBooks Desktop.
